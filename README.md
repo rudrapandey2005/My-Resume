@@ -1,6 +1,6 @@
 # 📄 Rudra Pratap Pandey — Resume & Portfolio Repository
 
-Welcome to my resume repository! This repository contains my complete professional profile, technical skillset, and featured project details.
+Welcome to my resume repository! This repository contains my complete professional profile, technical skillset, and featured project details.   
 
 ---
 
